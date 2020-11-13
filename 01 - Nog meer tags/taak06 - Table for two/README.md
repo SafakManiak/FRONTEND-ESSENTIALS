@@ -29,7 +29,7 @@ Dat ziet er dan zo uit:
             <td>Belal</td>
         </tr>
         <tr>
-            <td>Arman</td>
+            <td>Amine</td>
             <td>Hofman</td>
         </tr>
     </tbody>
